@@ -1,2 +1,2 @@
-filename = 'src/data/cars.webp'
-cascades = 'src/data/cars.xml'
+filename = 'data/cars.webp'
+cascades = 'data/cars.xml'
